@@ -8,7 +8,7 @@ namespace COMP367_Lab1_API.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Hello Harsh"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
